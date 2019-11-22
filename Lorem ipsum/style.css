@@ -1,0 +1,59 @@
+html {
+  background-color: grey;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  font-family: Geneva,"Times New Roman"sans-serif;
+}
+
+body {
+  background-color: white;
+  width: 80%;
+  margin: auto;
+}
+
+a {
+  font-size: 30px;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover {
+  color: red;
+}
+a:visited {
+  color: purple;
+}
+a:active {
+  color: yellow;
+}
+
+h1 {
+  background-color: blue;
+  font-size: 3em;
+  padding: 10px;
+  color: white;
+}
+
+p,h2,h3{
+  font-size: 2em;
+  padding: 10px;
+}
+
+img.pic {
+  margin: 5px;
+  float: right;
+  padding: 10px;
+}
+
+img.twitter_logo {
+  width: 30px;
+}
+
+footer {
+  background-color: lightblue;
+  padding: 0;
+}
+nav {
+  background-color: lightgray;
+}
